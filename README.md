@@ -1,5 +1,5 @@
-# Vignettes in R
-Code that shows the fine tuning of some functions
+# Handy Skeleton Code
+Generic code that shows how to do things in R
 
-Contents of Vignettes:
-1. Base package plot stuff
+Contents:
+1. Confidence interval for predictions from GLM models
